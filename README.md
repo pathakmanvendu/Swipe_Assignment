@@ -23,10 +23,6 @@ This project is a basic SwiftUI application that demonstrates a simple product m
     ```
 
 2. Open the project in Xcode:
-    ```sh
-    cd SimpleProductListApp
-    open SimpleProductListApp.xcodeproj
-    ```
 
 3. Build and run the project on the simulator or a physical device.
 
