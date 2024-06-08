@@ -39,5 +39,3 @@ The main screen displays a list of products. Each product is shown with its name
 ### Add Product Screen
 
 The Add Product screen allows you to add a new product. Enter the product name and price, then tap the "Save" button to add the product to the list. The new product will appear on the Product List screen.
-
-## Code Overview
