@@ -19,7 +19,7 @@ This project is a basic SwiftUI application that demonstrates a simple product m
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/pathakmanvendu/SimpleProductListApp.git
+    git clone https://github.com/pathakmanvendu/Swipe_Assignment.git
     ```
 
 2. Open the project in Xcode:
